@@ -3,7 +3,7 @@
 
 ## Entity
 Entity Development
-Dominate Build 
+Dominate Build
 Personal 
 
 ### Contents
