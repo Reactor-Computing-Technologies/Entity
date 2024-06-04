@@ -7,7 +7,7 @@ Entity Development
 ### Contents
 - Born CPU
 - Mind Instruction Set
-- System Kernel
+- Brain Kernel
 - Conscious Operating System
 - Guard Cyber Security
 - Synapse Cloud
