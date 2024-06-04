@@ -3,11 +3,13 @@
 
 ## Entity
 Entity Development
+Dominate Build 
+Personal 
 
 ### Contents
 - Arise CPU
 - Emerge Instruction Set
-- Mastermind Kernel
+- Delegate Kernel
 - Conscious Operating System
 - Sentinel Cyber Security
 - Synapse Cloud
