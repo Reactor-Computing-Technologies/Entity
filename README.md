@@ -5,11 +5,11 @@
 Entity Development
 
 ### Contents
-- Born CPU
-- Mind Instruction Set
-- Brain Kernel
+- Arise CPU
+- Emerge Instruction Set
+- Mastermind Kernel
 - Conscious Operating System
-- Guard Cyber Security
+- Sentinel Cyber Security
 - Synapse Cloud
 - Sentient Artificial Intelligence
 - Desire Host
